@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Kenzie Hub",
+      "url_vercel": "https://react-entrega-kenzie-hub-lucasmitori.vercel.app/login",
+      "url_github": "https://github.com/LucasMitori/kenziehub"
+    },
+    {
+      "id": 2,
+      "name": "Rick and Morty Database",
+      "url_vercel": "https://rick-and-morty-db-lucasmitori.vercel.app/welcome",
+      "url_github": "https://github.com/LucasMitori/rick-and-morty-db"
+    },
+    {
+      "id": 3,
+      "name": "Manula - Company",
+      "url_vercel": "https://manula-project.vercel.app/",
+      "url_github": "https://github.com/LucasMitori/manula-project"
+    },
+    {
+      "id": 4,
+      "name": "Burguer Kenzie",
+      "url_vercel": "https://hamburgueria-kenzie-vert.vercel.app/",
+      "url_github": "https://github.com/LucasMitori/hamburgueria-kenzie"
+    },
+    {
+      "id": 5,
+      "name": "Nu Kenzie",
+      "url_vercel": "https://react-entrega-s1-nu-kenzie-lucasmitori.vercel.app/",
+      "url_github": ""
+    },
+    {
+      "id": 6,
+      "name": "Pokemon Market",
+      "url_vercel": "https://pokemon-market-drab.vercel.app/",
+      "url_github": "https://github.com/LucasMitori/pokemon-market"
+    }
+  ]
+}
